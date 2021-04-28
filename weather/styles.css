@@ -1,0 +1,33 @@
+.main {
+  display: table;
+  background-color: grey;
+  border-radius: 35px;
+  text-align: center;
+  margin: auto;
+  width: 500px;
+  height: 250px;
+  position: relative;
+  top: 200px;
+}
+
+.text {
+  font-size: 55px;
+}
+.button {
+  border-radius: 40px;
+}
+
+.input {
+  border-radius: 40px;
+
+  font-size: 15px;
+}
+
+.search {
+  display: flex;
+  align-content: center;
+  position: relative;
+  left: 840px;
+  width: 800px;
+  height: 26px;
+}
